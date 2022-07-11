@@ -117,7 +117,7 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
+###
 #############################################################    THIEF GO AWAY    #################################################################################
 
 
@@ -566,6 +566,7 @@ https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani
@@ -582,8 +583,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
 #EXTINF:-1 tvg-id="MAKKAH TV" ch-number="MAKKAH TV" tvg-logo="https://i.pinimg.com/736x/17/ff/64/17ff64a29d2d21ddb4c6b89e4fd0613c.jpg" group-title="ASTRO",MAKKAH TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-
 
 
 
