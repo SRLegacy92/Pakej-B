@@ -116,9 +116,21 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-########
 #############################################################    THIEF GO AWAY    #################################################################################
-###########
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -629,8 +641,16 @@ window.location = "https://laksa19.github.io/myqr"
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="!!!❤️ SR LEGACY CHANNEL❤️!!!",SR Legacy TV
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3TApt2W" group-title="!!!❤️ SR LEGACY CHANNEL ❤️!!!",SILA BACA INI
+https://bit.ly/3cAuRmk
+#http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbibplus.eu/wp-content/uploads/2021/03/info.jpg" group-title="!!!❤️ SR LEGACY CHANNEL ❤️!!!",INFO
+https://bit.ly/3CRusGM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://simpel.usu.ac.id/images/upload/announces/c9ffb5e1f9b193a030339e6b1c26c5d4.png" group-title="!!!❤️ SR LEGACY CHANNEL ❤️!!!",PENGUMUMAN
+https://bit.ly/3B6SsnM
 
 
 
@@ -638,6 +658,19 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 ######################################################################################################################################################################
 ###########################################################   MYFREEVIEW  ############################################################################################
 ######################################################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3TApt2W" group-title="MYFREEVIEW",001 ❤️SILA BACA INI❤️ 
+https://bit.ly/3cAuRmk
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MYFREEVIEW" tvg-logo="https://cbibplus.eu/wp-content/uploads/2021/03/info.jpg",002 ✯✯INFO✯✯
+https://bit.ly/3CRusGM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://simpel.usu.ac.id/images/upload/announces/c9ffb5e1f9b193a030339e6b1c26c5d4.png" group-title="MYFREEVIEW",003 ✯PENGUMUMAN✯
+https://bit.ly/3B6SsnM
+
+
 
 
 
@@ -709,6 +742,18 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #####################################################################################################################################################################################
 ####################################################################   ASTRO     ####################################################################################################
 #####################################################################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3TApt2W" group-title="ASTRO",001 ❤️SILA BACA INI❤️ 
+https://bit.ly/3cAuRmk
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ASTRO" tvg-logo="https://cbibplus.eu/wp-content/uploads/2021/03/info.jpg",002 ✯✯INFO✯✯
+https://bit.ly/3CRusGM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://simpel.usu.ac.id/images/upload/announces/c9ffb5e1f9b193a030339e6b1c26c5d4.png" group-title="ASTRO",003 ✯PENGUMUMAN✯
+https://bit.ly/3B6SsnM
+
 
 
 
@@ -1526,15 +1571,18 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="GIFTS - BONUS CHANNEL",[SPORT] Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4200005DX" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="GIFTS - BONUS CHANNEL",[SPORT] Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
 
 
 
 
 
 ###################################################################################################################################################################
-
-
-
 
 
 
