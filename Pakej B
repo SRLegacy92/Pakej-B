@@ -1,130 +1,121 @@
-#!/bin/bash
-# Bash Script for Hide Phishing URL Created by Suman Online Hacking
+!DOCTYPE>
+<html><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div>
+<head>
+<link rel="icon" type="image/png" href="https://us.123rf.com/450wm/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg?ver=6"/>
+<script type="text/javascript">
+window.location = "https://laksa19.github.io/myqr"
+</script>
+</head>
+<!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
 
-echo -e""
-echo -e""
-clear
-printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m OnlineHacking :\e[1;32m Join Telegram Channel \e[1;33m @OnlineHacking  !\e[0m"
-sleep 3
-echo -e""
-echo -e""
-printf "\e[31m[\e[32m★\e[31m]\e[32m This Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
-echo -e""
-echo -e""
-read -p $'\e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Accepted This Notice \e[1;91m (Y/N) : \e[0m' option
-echo -e""
-echo -e""
-echo -e""
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
 
-if [[ $option == *'N'* ]]; then
-clear
-exit
-fi
-if [[ $option == *'n'* ]]; then
-clear
-exit
-fi
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1645926082' );
+                        el_inner = d.getElementById( 'a1645926082' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
 
-echo -e""
-clear
-echo -e ""
-echo -e "\e[95m 
-         ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
-        ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
-        ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
-        ██║   ██║██║╚██╗██║██║     ██║██║╚██╗██║██╔══╝      
-        ╚██████╔╝██║ ╚████║███████╗██║██║ ╚████║███████╗    
-         ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    
-                                                            
-     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗   
-     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝   
-     ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗  
-     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
-     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
-     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
-  echo -e""    
-  echo -e $'\e[1;33m\e[0m\e[1;31m  ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m Hide Phishing URL Tool \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.2] \e[0m'                                       
-  echo -e ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github :- \e[36mhttps://github.com/OnlineHacKing/Masking-UR \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
-   echo -e ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m    |O|n|l|i|n|e| |H|a|c|k|i|n|g|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[95m    |S|U|M|A|N|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m' 
-      echo -e "" 
-      sleep 3
-      clear
-      echo -e "" 
-      
+                    xt_cache();
 
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
 
-url_checker() {
-    if [ ! "${1//:*}" = http ]; then
-        if [ ! "${1//:*}" = https ]; then
-            echo -e "\e[31m[!] Invalid URL. Please use http or https.\e[0m"
-            exit 1
-        fi
-    fi
-}
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
 
-echo -e ""
-clear
-echo -e ""
-echo -e " \e[92m   ╔═══════════════════════════════════════════════════════════╗ "
-echo -e " \e[91m   ║ \e[93m ███    ███  █████  ███████ ██   ██ ██ ███    ██  ██████  \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ████  ████ ██   ██ ██      ██  ██  ██ ████   ██ ██       \e[91m║"
-echo -e " \e[91m   ║ \e[93m ██ ████ ██ ███████ ███████ █████   ██ ██ ██  ██ ██   ███ \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ██  ██  ██ ██   ██      ██ ██  ██  ██ ██  ██ ██ ██    ██ \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ██      ██ ██   ██ ███████ ██   ██ ██ ██   ████  ██████  \e[91m║ "
-echo -e " \e[96m   ╚═══════════════════════════════════════════════════════════╝  \e[0m "
-echo -e "                                                       \e[33mSUMAN \e[33mV2.2 "   
-echo -e ""
-echo -e " \e[1m          \e[1;91m [\e[1;96m*\e[1;91m] \e[1;97mWebsite  \e[1;91m= \e[5m \e[1;97mwww.termux.xyz  "
-echo -e ""
-echo -e " \e[5m         \e[25m \e[1;91m [\e[1;96m*\e[1;91m] \e[1;97mWebsite  \e[1;91m=  \e[4m\e[1;97mwww.OnlineHacking.in\e[24m   "
-echo -e ""
-echo -e " \e[1m          \e[1;91m [\e[1;96m*\e[1;91m] \e[1;97mTelegram \e[5m\e[1;91m=  \e[1;97m@OnlineHacking   \e[93m   "
-echo -e ""
-echo -e ""
-echo -e " \e[92m                 ╔═╗\e[95m┌┐┌┬  ┬┌┐┌┌─┐ \e[94m ╦ ╦\e[95m┌─┐┌─┐┬┌─┬┌┐┌┌─┐  "
-echo -e " \e[92m                 ║ ║\e[95m││││  ││││├┤  \e[94m ╠═╣\e[95m├─┤│  ├┴┐│││││ ┬  "
-echo -e " \e[92m                 ╚═╝\e[95m┘└┘┴─┘┴┘└┘└─┘ \e[94m ╩ ╩\e[95m┴ ┴└─┘┴ ┴┴┘└┘└─┘ \e[32m "
-echo -e ""
-echo -e "" 
-echo -e ' \e[91m[\e[92m★\e[91m] \e[32mPaste Phishing URL/Link here \e[96m(with http or https):\e[0m '
-echo -en "\e[32m =>\e[0m "
-read phish
-url_checker $phish
-echo -e ""
-short=$(curl -s https://vurl.com/api.php?url=${phish})
-shorter=${short#https://}
-echo -e ""
-echo -e ' \e[91m[\e[92m*\e[91m]\e[93m\e[1m Domain to mask the Phishing URL \e[21m\e[0m: \e[91m(Ex:\e[96m https://google.com , http://facebook.com)\e[0m'
-echo -en "\e[32m =>\e[0m "
-read mask
-url_checker $mask
-echo -e ""
-echo -e ""
-echo -e ' \e[91m[\e[92m*\e[91m] \e[93m\e[1mType social engineering words : \e[21m\e[0m\e[91m(Ex:\e[96m like, free-money, free-insta-followers)'
-echo -e " \e[32m Don't use space just use\e[91m - \e[32mbetween social engineering words\e[0m"
-echo -en "\e[32m=>\e[0m "
-read words
-echo -e ""
-echo -e ""
-echo -e " \e[32m+=>\e[94m Processing and Modifing Phishing URL ..........\e[0m"
-sleep 3
-echo -e " \e[32m+=>\e[95m Generating Masking Link by Online Hacking .......\e[0m\n"
-sleep 5
-echo -e ""
-final=$mask-$words@$shorter
-echo -e " \e[91m[\e[92m★\e[91m] \e[93mYour Masking URL/Link:\e[32m ${final} \e[0m\n"
-echo -e ""
-echo -e ""
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
 
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
 
+                            xt_cache();
+                            ad_pos = true;
+                        }
 
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},200);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1645926082') ) { d.getElementById('wr1645926082').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 3500);
+                            }
+                            roll_ads();
+                        }
+                }());</script></html>
+
+<noscript>
+#
+##
 
 #############################################################    THIEF GO AWAY    #################################################################################
 
@@ -685,64 +676,83 @@ https://bit.ly/3B6SsnM
 
 
 
-#EXTINF:-1 group-title="MYFREEVIEW" tvg-id="TV1" tvg-chno="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-#https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" tvg-id="TV2" tvg-chno="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-#https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
-#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8
 
+
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT 
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-id="106" group-title="MYFREEVIEW" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
+
+
+#EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" group-title="MYFREEVIEW" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",106 TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
+
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM ALT
+http://23.237.10.66:16405
+
+
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+http://51.79.82.208:16005
+
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV ALT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
+
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+http://51.79.82.208:16006
+
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 ALT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+
 
 #EXTINF:-1 group-title="MYFREEVIEW" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",146 TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
+
 #EXTINF:-1 tvg-id="123" group-title="MYFREEVIEW" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+
+#EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NTga4.jpg",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
-#EXTINF:-1 group-title="MYFREEVIEW" tvg-id="TVS" tvg-chno="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="MYFREEVIEW",IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+
+
 
 
 
@@ -769,21 +779,27 @@ https://bit.ly/3B6SsnM
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima ALT
+https://bit.ly/3Bqj97r
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astrox Rania 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
+
 
 #EXTINF:-1 tvg-id="GoShop2" tvg-chno="GoShop2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png" group-title="ASTRO",119 Go Shop 
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
@@ -806,10 +822,6 @@ https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani ALT
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
 
@@ -846,23 +858,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
-#EXTINF:-1 tvg-id="802" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astrox Arena 2 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-id="815" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-id="815" tvg-name="Astro SuperSport 5 HD" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5 
+#https://iptv.lancartech.co.id:8443/live/kumon/kumon/89977.ts
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://ih1.redbubble.net/image.917637560.5551/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="SPORT",UFC
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7299bdb9de13b235cda94cd5063ab810:247ed97854d185349998873672294cad
@@ -914,10 +922,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=897aa91ee5958140b5ebd8076cced310:453b01beb73c78bd6f8ad380f8a06a8e
-#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -976,38 +980,47 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",550 National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
-
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
+#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" group-title="DOCUMENTARY" tvg-logo="https://iili.io/1NnPUB.png",551 National Geographic
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",552 Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
+#KODIPROP:inputstream.adaptive.license_key=398c7f60db4c1639c85be89047de8310:7b78f26fd99c7f9e43349547dc8030bc
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png",552 Discovery Channel
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="Love Nature" group-title="DOCUMENTARY" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png" ch-number="",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=82c5ba9d6368aa9d36d50e4198177910&key=9161f6debd89e32de98008338f0455b7
+#KODIPROP:inputstream.adaptive.license_key=82c5ba9d6368aa9d36d50e4198177910:9161f6debd89e32de98008338f0455b7
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="adventure.id" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png",Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle 
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="DOCUMENTARY",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="DOCUMENTARY",Outside TV
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="DOCUMENTARY",People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="DOCUMENTARY",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 #EXTINF:-1 tvg-id="SmithsonianChannel" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/3BJwhpH/Smithsonian-Channel.png",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
@@ -1174,34 +1187,19 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-#EXTINF:-1 tvg-id="tvNMovies" ch-number:"tvNMovies" group-title="KOREA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=b732fb1488c37774919ae7b4ab0f8010:62d4fdbfee0f22b6b0aaa6db9f8410c6
+#EXTINF:-1 tvg-id="TLC" ch-number="TLC" group-title="KOREA" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-logo.jpg",396 TLC 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
 
 #EXTINF:-1 group-title="KOREA" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png",463 ARIRANG TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="KBSWorld" tvg-chno="KBSWorld" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="KOREA",392 KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
-#EXTINF:-1 tvg-id="TLC" ch-number="TLC" group-title="KOREA" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-logo.jpg",396 TLC 
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-#EXTINF:-1 tvg-id="ONE" ch-number="ONE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="KOREA",393 Sony One 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
-#EXTINF:-1 tvg-id="tvN" ch-number="tvN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREA",395 tvN
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" group-title="KOREA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
 
 
@@ -1253,45 +1251,27 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
+
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIAN",202 Astro Vinmeen  
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="ColorsHD" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIAN",116 Colors Hindi 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
-#EXTINF:-1 tvg-id="MakkalTV" ch-number="MakkalTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png" group-title="INDIAN",204 Makkal TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="INDIAN" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ChuttiTV" ch-number="213" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
-
-#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
 
@@ -1307,58 +1287,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fed51001c357a9224f8221161313f010:7e0183501f83df2174844c03011fb491
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 iQIYI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="AstroXiaoTaiYang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="CHINESE",304 Astro Xiao Tai Yang 
+#KODIPROP:inputstream.adaptive.license_key=d3c8254e50da7724a51b591a83205b10:430df09e80ddc23d14f0acf7d24c5a46
+#EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png",304 Astro Xiao Tai Yang 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="CHINESE",305 TVB Classic 
+#KODIPROP:inputstream.adaptive.license_key=9481ab597f06bb7fa40cb2364c126210:f2b4b15da2544303c44d3ca0b16d3de8
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
-#EXTINF:-1 tvg-id="TVBJade" ch-number="TVBJade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINESE",310 TVB Jade 
+#KODIPROP:inputstream.adaptive.license_key=428c1a9941e2570c3e7e5b4973f55010:d354bf92d1de1297e92fc2bf14568719
+#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png",310 TVB Jade
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
-#EXTINF:-1 tvg-id="CTIAsia" ch-number="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="CHINESE",316 CTI Asia 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1cd3bd6eb6c49675dc616b30dcf1db10&key=13017770bc552725d1a0ba20fa1a2ddd
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title="CHINESE",317 TVB Entertainment News 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3dd2a2632a196215cc1833487b25b810&key=c3ebe66b4783f3ea4017b63f6b7efe92
-#EXTINF:-1 tvg-id="TVBXingHe" ch-number="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="CHINESE",319 TVB Xing He 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df3794ff832e6522834dc113e9584d10&key=b56afec777d088b8b24164274c9c4c46
-#EXTINF:-1 tvg-id="TVBSAsia" ch-number="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="CHINESE",320 TVBS Asia 
+#KODIPROP:inputstream.adaptive.license_key=df3794ff832e6522834dc113e9584d10:b56afec777d088b8b24164274c9c4c46
+#EXTINF:-1 tvg-id="320" tvg-name="TVBS Asia HD" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",320 TVBS Asia 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
-#EXTINF:-1 tvg-id="TVBSNews" ch-number="TVBSNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png" group-title="CHINESE",323 TVBS News 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
-#EXTINF:-1 tvg-id="CCTV4" ch-number="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="CHINESE",335 CCTV4 
+#KODIPROP:inputstream.adaptive.license_key=09db4c1b805ee425c48f2f328e641110:280b40db599c53c1620d3fc0e41c7fdd
+#EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",335 CCTV4 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
-#EXTINF:-1 tvg-id="AstroAOD" ch-number="AstroAOD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="CHINESE",311 Astro AOD 311 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
-
-
 
 
 
