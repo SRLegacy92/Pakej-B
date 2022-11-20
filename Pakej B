@@ -1506,6 +1506,20 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCOvk.jpg" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] CONTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+#EXTINF:-1 tvg-id="tiny.pop.gb" tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Baby Shark Tv
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Lego TV
+https://legochannel-roku.amagi.tv/playlist404-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
 
 
 
