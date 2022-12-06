@@ -885,6 +885,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 
 
+#EXTINF:-1 tvg-name="bein sports xtra" group-title="SPORT" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png",BeIN Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
 
 
 
@@ -923,9 +926,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/X51mczr/1a04fa08-3032-46f1-8cb2-1639ed2c1905-popcornflix-family-of-logos.png" tvg-url="" group-title="MOVIES",PopCorn Flix
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -935,20 +935,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES",FilmRise Action
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES",FilmRise Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES",FilmRise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
 
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="MOVIES",Box office Bollywood
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="MOVIES",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
@@ -982,13 +973,6 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="adventure.id" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png",Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle 
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="DOCUMENTARY",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="DOCUMENTARY",Outside TV
@@ -1146,13 +1130,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Movie Sphere" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4f41754c25e159dfb8bae8d9e6101bad/images/titan/assets/aHR0cHM6Ly9tb3ZpZXNwaGVyZS5zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9Nc3BoZXJlX1RodW1ibmFpbF8xOTIweDEwODAuanBn.jpg" group-title="ENTERTAINMENT",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/52e9bb4c15ed59d3829a97818fe4f776/images/titan/assets/aHR0cHM6Ly9zdGF0aWMtcy1jZG4ueHVtby5jb20vY2hhbm5lbGxvZ29zL2JyYW5kVGlsZS9icmFuZFRpbGVfSGFsbG1hcmsucG5n.png/presets/8abda08083bc8e90e6de9a63c845ee55" group-title="ENTERTAINMENT" tvg-id="CHN" tvg-chno="CHN",Hallmark Movies & More 
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.png" group-title="ENTERTAINMENT",YuppThirai
-#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="ENTERTAINMENT" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1eJYhl.png",703 Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 
 
@@ -1185,6 +1166,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
 
+#EXTINF:-1 group-title="KOREA" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png",463 ARIRANG TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
 
 
 
@@ -1210,14 +1195,6 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF: -1 tvg-id="ShopChannel.jp" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="JAPAN", Shop Channel 
 https://stream3.shopch.jp/HLS/master.m3u8
 
-#EXTINF: -1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan", NTV News24 
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF: -1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" group-title="JAPAN", Weather Channel (ウェザーニュース) (BS | WNI) 
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-
-#EXTINF: -1 tvg-id="WeatherNews.jp" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="JAPAN", Weather News 
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 
 
@@ -1279,6 +1256,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 #EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",335 CCTV4 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+
 
 
 
@@ -1306,7 +1289,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 
 
@@ -1452,9 +1436,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Animals Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
@@ -1469,7 +1450,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
 ##################################################################################################################################################################
 #########################################################  GIFTS - BONUS CHANNEL  ################################################################################
 ##################################################################################################################################################################
@@ -1477,15 +1457,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="GlobalGotTalent.us" tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Global Got Talent 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] A&E 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] HauntTV  
-https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Dark Matter TV 
 https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
@@ -1496,15 +1467,17 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Moviehub 
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Movies Mix 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4200005DX" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL]  Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="GIFTS - BONUS CHANNEL",[SPORT] Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-
-#EXTINF:-1 tvg-id="GBAJ4200005DX" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="GIFTS - BONUS CHANNEL",[SPORT] Edge Sports
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCOvk.jpg" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] CONTV Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
@@ -1518,6 +1491,56 @@ https://legochannel-roku.amagi.tv/playlist404-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
+
+
+
+
+
+##############################################################################################################################################################################
+#####################################################################  MUSIC  ################################################################################################
+#############################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3TApt2W" group-title="MUSIC",001 ❤️SILA BACA INI❤️ 
+https://bit.ly/3cAuRmk
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="https://cbibplus.eu/wp-content/uploads/2021/03/info.jpg",002 ✯✯INFO✯✯
+https://bit.ly/3CRusGM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://simpel.usu.ac.id/images/upload/announces/c9ffb5e1f9b193a030339e6b1c26c5d4.png" group-title="MUSIC",003 ✯PENGUMUMAN✯
+https://bit.ly/3qtM1VP
+#https://bit.ly/3B6SsnM
+
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Spankin\'New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-id="Mola.ID" tvg-logo="https://i.ibb.co/P5y4bx0/Mola-logo-2021.png" group-title="MUSIC",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1  tvg-id="mtv-rus" group-title="MUSIC" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party 
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1  tvg-id="mtv-rus" group-title="MUSIC" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
 
 
