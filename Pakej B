@@ -864,8 +864,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 
 
-
-
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -873,7 +871,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" group-title="SPORT" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network ALT
+#EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" group-title="SPORT" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -889,6 +887,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="SPORT",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4200005DX" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORT",Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://images.useetv.com/logo_fightsport_small.png",Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 
 
@@ -1008,9 +1017,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Baby First" tvg-name="Baby First" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="KIDS",Baby First
-https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-name="MoonbugKids" tvg-logo="https://seeklogo.com/images/M/moonbug-kids-logo-D454044A25-seeklogo.com.png" group-title="KIDS",MoonbugKids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -1031,6 +1037,18 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w702505816.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png" group-title="KIDS",ConTV Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="KIDS",Happykids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="KIDS",Happy kids junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+
+
 
 
 
