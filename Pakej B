@@ -710,7 +710,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-http://23.237.10.66:16405
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM ALT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -719,7 +719,7 @@ https://bit.ly/3Bqj97r
 
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-http://51.79.82.208:16005
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV ALT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
@@ -728,7 +728,7 @@ https://bit.ly/3Bqj97r
 
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-http://51.79.82.208:16006
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 ALT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
@@ -759,8 +759,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="MYFREEVIEW",IKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
 
 
 
@@ -1516,7 +1515,8 @@ https://legochannel-roku.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="TrueTennis.th" tvg-name="True Tennis" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 
 
@@ -1568,6 +1568,37 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 
 
 
+
+
+
+##################################################################################################################################################################
+#########################################################       EDUCATION    #####################################################################################
+##################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3TApt2W" group-title="EDUCATION",001 ❤️SILA BACA INI❤️ 
+https://bit.ly/3cAuRmk
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="EDUCATION" tvg-logo="https://cbibplus.eu/wp-content/uploads/2021/03/info.jpg",002 ✯✯INFO✯✯
+https://bit.ly/3CRusGM
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="601" tvg-name="Astro Tutor TV SK" group-title="EDUCATION" tvg-logo="https://iili.io/MF5WOX.png",601 Astro Tutor TV SK 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5070
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
+
+
+
+#EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title="EDUCATION" tvg-logo="https://iili.io/MF5ef4.png",603 Astro Tutor TV SMK 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5071
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 
